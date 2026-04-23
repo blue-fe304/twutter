@@ -10,3 +10,10 @@ a {
     color: white;
 }
 
+.tweet {
+    display: flex;
+    align-items: flex-start;
+    padding: 12px;
+    gap: 12px;
+   
+}
